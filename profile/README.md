@@ -37,7 +37,13 @@ Los usuarios registrados en la empresa COmo ser el contador, el Adminsitrador, V
 
 Puedes dar click en el menu para ir a la pantalla de menu.
 
-![image](https://github.com/user-attachments/assets/5bc09b85-e35a-43eb-980e-81678a7778e1)
+![image](https://github.com/user-attachments/assets/0fcf5044-9225-4bf7-a3f4-7e2ebf052877)
+
+![image](https://github.com/user-attachments/assets/61fa237c-172c-45dd-9167-9a6729ec9bc1)
+
+
+Cada ventana del menú será explicada una inciemos negociaciones.
+
 
 El menú tiene diferentes opciones en la cuales sera capacitado el personal correspondiente.
 
