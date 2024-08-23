@@ -77,6 +77,14 @@ El sistema es demasiado grande para mostrarlo en una cotizacion, pero a su debid
 - ⚠️ El precio del alquiler no incluye cambios en el sistema, si quiere algún cambio novedoso, se realizará una nueva cotización.
 - ✅ Los primeros 3 meses, el personal de la Urbanización Owinawa estará en contínua comunicación con el equipo de Servisofts, Para cambiar el sistema a gusto y necesidad de La Urbanización Owinawa.
 
+## Ventajas de nuestra métodología
+
+- Al ser mensualizado no necesita grandes inversiones para inciar operaciones, solo necesita que su personal tenga un celular o computadora con internet.
+- La empresa Servisofts Srl al ser mensualizada estará en constante cooperación con su personal de sistemas.
+- Si no está satisfecho con el servicio en cualquier momento puede romper relaciones y dejar de pagar su mensualidad.
+
+
+
 Esperamos con gusto trabajar con ustedes.
 
 Saludos.
