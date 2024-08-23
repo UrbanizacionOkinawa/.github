@@ -17,6 +17,27 @@ Servisofts Serp. es un sistema de gestión empresarial en vivo multiplataforma. 
 
 ### Como funciona?
 
-Al ser un sistema que funciona en cualquier momento y desde cualquier lugar, en estos momentos yab puedes usar el sistema.
+Al ser un sistema que funciona en cualquier momento y desde cualquier lugar, en estos momentos ya puedes usar el sistema.
 
 Vamos, sigue este link para ver el sistema [https://serp.servisofts.com/](serp.servisofts.com)
+
+Si no estas registrado tienes que hacerlo.
+
+![image](https://github.com/user-attachments/assets/93d73420-fea4-4835-8612-8173739522bd)
+
+Luego buscas la empresa a la cual quieres ingresar.
+
+![image](https://github.com/user-attachments/assets/64bffa4a-8037-4464-8f34-dc2f9450fe85)
+
+Al ingresar veras la pantalla principal donde tendras muchas opciones como notas, recordatorios, publicaciones sobre las novedades de tu empresa.
+
+Los usuarios registrados en la empresa COmo ser el contador, el Adminsitrador, Vendedor, Clientes etc.
+
+![image](https://github.com/user-attachments/assets/60c19c78-5b10-4444-8804-5dbc4d62c9c0)
+
+Puedes dar click en el menu para ir a la pantalla de menu.
+
+![image](https://github.com/user-attachments/assets/238ea2f8-f5bd-492a-9ebd-a6b4e7594a00)
+
+El menú tiene diferentes opciones en la cuales sera capacitado el personal correspondiente.
+
