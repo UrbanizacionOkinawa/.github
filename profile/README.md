@@ -52,7 +52,7 @@ El sistema es demaciado grande para mostrarlo en una cotizacion, pero a su devid
 
 ## 
 
-|Descripcion|Precio|
+|Descripcion|Precio|Estado|
 |-|-|-|
 | Alquiler del sistema| $.600/mes |✅|
 | % de comision por transaccion| 1% |⚠️|
