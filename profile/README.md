@@ -45,8 +45,13 @@ El menú tiene diferentes opciones en la cuales sera capacitado el personal corr
 
 A continuacion un video de como se crean los lotes. Este video es un poco pesado por lo que puede demorar un poco
 
-
 https://github.com/user-attachments/assets/677e1c04-b8d5-4dc4-8581-dd25ad0d70d7
+
+Un pantallazo de la parte contable.
+
+![image](https://github.com/user-attachments/assets/a33baabb-eb83-4adf-a5bf-739a4658b9fe)
+
+
 
 El sistema es demaciado grande para mostrarlo en una cotizacion, pero a su devido momento todo el personal de Urbanización Owinawa será capacitado y atendido 24/7 por personal de la empresa Servisofts.
 
