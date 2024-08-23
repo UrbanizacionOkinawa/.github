@@ -37,11 +37,7 @@ Los usuarios registrados en la empresa COmo ser el contador, el Adminsitrador, V
 
 Puedes dar click en el menu para ir a la pantalla de menu.
 
-![image](https://github.com/user-attachments/assets/238ea2f8-
 
-https://github.com/user-attachments/assets/c045ac89-1657-4ea4-9eb3-3e5720c5b8e5
-
-f5bd-492a-9ebd-a6b4e7594a00)
 
 El menú tiene diferentes opciones en la cuales sera capacitado el personal correspondiente.
 
@@ -49,6 +45,6 @@ El menú tiene diferentes opciones en la cuales sera capacitado el personal corr
 
 A continuacion un video de como se crean los lotes. Este video es un poco pesado por lo que puede demorar un poco
 
-![image](https://github.com/user-attachments/assets/0efbadb1-433e-45af-9027-f66275837a88)
+![image](https://github.com/user-attachments/assets/c045ac89-1657-4ea4-9eb3-3e5720c5b8e5f5bd-492a-9ebd-a6b4e7594a00)
 
 
