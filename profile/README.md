@@ -39,7 +39,7 @@ Puedes dar click en el menu para ir a la pantalla de menu.
 
 ![image](https://github.com/user-attachments/assets/0fcf5044-9225-4bf7-a3f4-7e2ebf052877)
 
-![image](https://github.com/user-attachments/assets/61fa237c-172c-45dd-9167-9a6729ec9bc1)
+![image](https://github.com/user-attachments/assets/7ac38ae4-4af0-4bc8-ad08-aa49e6e45c05)
 
 
 Cada ventana del menú será explicada una inciemos negociaciones.
