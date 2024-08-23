@@ -14,3 +14,9 @@ El objetivo de la aplicación `Urbanización Okinawa` es facilitar y optimizar e
 Servisofts Serp. es un sistema de gestión empresarial en vivo multiplataforma. Lo que significa que puedes igresar a ver tu información desde cualquier lugar y en cualquier momento.
 
 ![image](https://github.com/user-attachments/assets/f2179fcf-9333-4322-adb4-d286b6949190)
+
+### Como funciona?
+
+Al ser un sistema que funciona en cualquier momento y desde cualquier lugar, en estos momentos yab puedes usar el sistema.
+
+Vamos, sigue este link para ver el sistema [https://serp.servisofts.com/](serp.servisofts.com)
