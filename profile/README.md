@@ -48,4 +48,24 @@ A continuacion un video de como se crean los lotes. Este video es un poco pesado
 
 https://github.com/user-attachments/assets/677e1c04-b8d5-4dc4-8581-dd25ad0d70d7
 
+El sistema es demaciado grande para mostrarlo en una cotizacion, pero a su devido momento todo el personal de Urbanización Owinawa será capacitado y atendido 24/7 por personal de la empresa Servisofts.
+
+## 
+
+|Descripcion|Precio|
+|-|-|-|
+| Alquiler del sistema| $.600/mes |✅|
+| % de comision por transaccion| 1% |⚠️|
+
+
+
+✅ El precio del alquiler incluye el uso de los servidores de Servisofst por lo cual La Urbanización Owinawa no necesitará gastar en ningún equipo tecnológico.
+✅ El precio del alquiler incluye personal de atencion al cliente 24/7.
+✅ El precio del alquiler incluye solución de problemas en tiempo real.
+✅ El precio del alquiler incluye Backups y mejora continua.
+⚠️ El precio del alquiler no incluye cambios en el sistema, si quiere algún cambio novedoso, se realizará una nueva cotización.
+⚠️ El monto de 1% de comision por transacción que es lo normal en las pasarelas de pago.  ( Este monto no será cobrado por ser un cliente preferente. Siempre y cuando el cliente venda menos de 1 millon de Bolivianos mensuales. )
+
+
+
 
