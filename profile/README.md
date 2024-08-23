@@ -69,7 +69,13 @@ El sistema es demasiado grande para mostrarlo en una cotizacion, pero a su debid
 - ✅ El precio del alquiler incluye solución de problemas en tiempo real.
 - ✅ El precio del alquiler incluye Backups y mejora continua.
 - ⚠️ El precio del alquiler no incluye cambios en el sistema, si quiere algún cambio novedoso, se realizará una nueva cotización.
+- ✅ Los primeros 3 meses, el personal de la Urbanización Owinawa estará en contínua comunicación con el equipo de Servisofts, Para cambiar el sistema a gusto y necesidad de La Urbanización Owinawa.
 
+Esperamos con gusto trabajar con ustedes.
+
+Saludos.
+
+Atte. Servisofts Srl.
 
 
 
