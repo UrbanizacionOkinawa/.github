@@ -53,7 +53,7 @@ Un pantallazo de la parte contable.
 
 
 
-El sistema es demasiado grande para mostrarlo en una cotizacion, pero a su devido momento todo el personal de Urbanización Owinawa será capacitado y atendido 24/7 por personal de la empresa Servisofts.
+El sistema es demasiado grande para mostrarlo en una cotizacion, pero a su debido momento todo el personal de Urbanización Owinawa será capacitado y atendido 24/7 por personal de la empresa Servisofts.
 
 ## 
 
